@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **p.negi8979@gmail.com**
 
-- ⚡ Fun fact **I am not a study geek but a quick learner⏳**
+- ⚡ Fun fact **I am dedicated to refining my skills regularly🚀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
