@@ -15,13 +15,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pawan8979&label=Profile%20views&color=0e75b6&style=flat" alt="pawan8979" /> </p>
 
 
-- 🌱 I’m currently learning **frontend development**
+- 🌱 I’m currently grinding **frontend development**
 
 - 💬 Ask me about **HTML, CSS, JAVASCRIPT, REACT**
 
 - 📫 How to reach me **p.negi8979@gmail.com**
 
-- ⚡ Fun fact **I am dedicated to refining my skills regularly🚀**
+- ⚡ About me- **I am dedicated to refining my skills regularly🚀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
