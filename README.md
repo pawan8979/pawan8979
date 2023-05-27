@@ -41,7 +41,7 @@
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/pawan8979)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/pawan8979)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/pawan8979)
-[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/pawan8979)
+
 
 <p align="center">
   <a href="https://github.com/pawan8979">
