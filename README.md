@@ -37,11 +37,10 @@
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/pawan8979)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/pawan8979)
 [![Bootstrap](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap)](https://github.com/pawan8979)
-[![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=gnu-git&logoColor=white)](https://github.com/pawan8979)
+[![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=white)](https://github.com/pawan8979)
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/pawan8979)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/pawan8979)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/pawan8979)
-
 
 <p align="center">
   <a href="https://github.com/pawan8979">
