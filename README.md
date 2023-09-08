@@ -41,6 +41,8 @@
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/pawan8979)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/pawan8979)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/pawan8979)
+[![GSAP](https://img.shields.io/badge/GSAP-black?style=for-the-badge&logo=GSAP)](https://github.com/pawan8979)
+[![Locomotive_Scroll](https://img.shields.io/badge/Locomotive_Scroll-black?style=for-the-badge&logo=Locomotive_Scroll)](https://github.com/pawan8979)
 [![Bootstrap](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap)](https://github.com/pawan8979)
 [![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=white)](https://github.com/pawan8979)
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/pawan8979)
