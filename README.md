@@ -23,6 +23,8 @@
 
 - ⚡ About me- **I am dedicated to refining my skills regularly🚀**
 
+- 🌟 Fun Fact- **Hard work beats talent! when talent doesn't work hard** 
+
 - 👨‍💻 Minimalistic Portfolio- <a href="https://pfolio2023.netlify.app/">portfolio2023</a>
 
 <h3 align="left">Connect with me:</h3>
