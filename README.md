@@ -41,6 +41,7 @@
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/pawan8979)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/pawan8979)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/pawan8979)
+[![SCSS](https://img.shields.io/badge/scss-black?style=for-the-badge&logo=scss)](https://github.com/pawan8979)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/pawan8979)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/pawan8979)
 [![GSAP](https://img.shields.io/badge/GSAP-black?style=for-the-badge&logo=GSAP)](https://github.com/pawan8979)
