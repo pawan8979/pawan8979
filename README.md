@@ -15,7 +15,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pawan8979&label=Profile%20views&color=0e75b6&style=flat" alt="pawan8979" /> </p>
 
 
-- 🌱 I’m currently grinding **frontend development**
+- 🌱 I’m currently learning **DevOps**
 
 - 💬 Ask me about **HTML, CSS, JAVASCRIPT, REACT**
 
@@ -23,7 +23,7 @@
 
 - ⚡ About me- **I am dedicated to refining my skills regularly🚀**
 
-- 🌟 Fun Fact- **Hard work beats talent! when talent doesn't work hard** 
+- 🌟 Fun Fact- **Hard work beats talent! When talent doesn't work hard** 
 
 - 👨‍💻 Minimalistic Portfolio- <a href="https://pfolio2023.netlify.app/">portfolio2023</a>
 
