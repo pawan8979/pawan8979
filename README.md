@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT, REACT**
+- 💬 Ask me about **FRONTEND & DEVOPS**
 
 - 📫 How to reach me **p.negi8979@gmail.com**
 
