@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **FRONTEND & DEVOPS**
+- 💬 Ask me about **FRONTEND, BACKEND & DEVOPS**
 
 - 📫 How to reach me **p.negi8979@gmail.com**
 
