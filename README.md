@@ -15,7 +15,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pawan8979&label=Profile%20views&color=0e75b6&style=flat" alt="pawan8979" /> </p>
 
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently working as a **DevOps/SRE**
 
 - 💬 Ask me about **FRONTEND, BACKEND & DEVOPS**
 
