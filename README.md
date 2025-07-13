@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center">Hi 🙏, I'm Pawan Negi</h1>
+<h1 align="center">Hi 👋, I'm Pawan Negi</h1>
 <div align="center">
   
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+Welcome+to+my+GitHub+profile...!)
@@ -34,6 +34,8 @@
   </a>
 </p>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=pawan8979&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <h3 align="left">Languages:</h3>
 
@@ -73,20 +75,20 @@
 
 <br/>
 
-
-<p align="center">
-  <a href="https://github.com/pawan8979">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pawan8979&theme=transparent" />
-  </a>
-  <a href="https://github.com/pawan8979">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pawan8979&hide_border=true&card_width=338&theme=transparent" />
-  </a>
-  <a href="https://github.com/pawan8979">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pawan8979&theme=transparent" />
-  </a>
-  <a href="https://github.com/pawan8979">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawan8979&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&card_width=699&hide_border=true&theme=transparent" alt="Top Languages" />
-</a>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pawan8979&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
+![](https://github-readme-stats.vercel.app/api?username=pawan8979&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=pawan8979&theme=dark&hide_border=false)
 
 
-</p>
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=pawan8979&limit=5&theme=dark&combine_all_yearly_contributions=true)
