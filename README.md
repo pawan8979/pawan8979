@@ -21,11 +21,11 @@
 
 - 📫 How to reach me **p.negi8979@gmail.com**
 
-- ⚡ About me- **I am dedicated to refining my skills regularly🚀**
+- ⚡ About me- **Dedicated to continuous skill improvement 🚀**
 
-- 🌟 Fun Fact- **Hard work beats talent! When talent doesn't work hard** 
+- 🌟 Fun Fact- **Hard work beats talent when talent doesn't work hard** 
 
-- 👨‍💻 Minimalistic Portfolio- <a href="https://pfolio2023.netlify.app/">portfolio2023</a>
+- 👨‍💻 Minimalistic Portfolio- <a href="https://pfolio2023.netlify.app/">Visit My Portfolio (2023)</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
