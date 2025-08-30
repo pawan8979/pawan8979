@@ -66,7 +66,7 @@ Hi, I’m **Pawan**, a passionate **DevOps/SRE engineer** who thrives on solving
 ### ✨ Fun Facts
 
 - 🧩 I love cooking and helping my mom in the kitchen
-- 🧘‍♂️ Minimalist, but obsessed with observability
+- 🧘‍♂️ Minimalist, but obsessed with perfection
 - 🧭 My goal: Become a top-tier in `DevOps` and give back to the tech community
 
 ---
